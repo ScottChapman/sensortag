@@ -14,3 +14,4 @@ tags.discoverAll(function(tag) {
     console.log("Discovered!");
     console.dir(tag);
 });
+
